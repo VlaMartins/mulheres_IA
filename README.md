@@ -1,2 +1,1 @@
-# mulheres_IA
-site repaginado com ia. 
+# ada-lovalace
